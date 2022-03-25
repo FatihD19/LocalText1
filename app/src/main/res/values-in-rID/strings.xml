@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">Bantuan</string>
+    <string name="description">naget adalah panganan enak gari digoreng, dibuat dari panir roti,iwak digiling dicampur lan digoreng cocok buat makanan instan,camilan siap santap</string>
+    <string name="nougat">permen naget enak</string>
+    <string name="help_text">bila ingin bantuan panggil  call senter</string>
+    <string name="dial_log_message">error coba cari fi google</string>
+    <string name="language">Bahasa</string>
+</resources>
